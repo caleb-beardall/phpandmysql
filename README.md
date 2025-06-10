@@ -1,1 +1,3 @@
-# phpandmysql
+# Thank you for taking the time to review my PHP and MySQL project. As part of my effort to quickly gain familiarity with PHP and demonstrate my commitment to learning the language, I’ve been working through PHP & MySQL: Novice to Ninja by Tom Butler.
+# The project I’ve submitted comes directly from the book and was developed as I followed the author’s instructions and insights. Although I haven’t yet completed the book or the full project, the experience so far has given me a strong introduction to PHP and its practical applications. I plan to continue building on this foundation as I work through the remaining chapters.
+# The code I’ve written can be found in the includes, public, and templates folders, located at: phpandmysql\websites\default.
